@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="listViewPadding">16dp</dimen>
+    <dimen name="singlePadding">8dp</dimen>
+    <dimen name="pictureSize">300dp</dimen>
+    <dimen name="textSizeArtist">18sp</dimen>
+    <dimen name="textSizeSong">14sp</dimen>
+    <dimen name="buttonSize">50dp</dimen>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NCS Music App</string>
+    <string name="playing">Now Playing</string>
+    <string name="backButton">Take me back!</string>
+    <string name="moreInformations">More information about the artist</string>
+    <string name="alanWalkerInfo">Alan Olav Walker (born 24 August 1997), formerly known by his stage name DJ Walkzz, is a Norwegian record producer and DJ.</string>
+    <string name="aeroChordInfo">Alex Vlastaras (born 8 November 1991), commonly known by his stage name Aero Chord, is a Greek electronic trap producer.</string>
+    <string name="moreInformation">Even More Information</string>
+    <string name="alanWalkerUrl">https://en.wikipedia.org/wiki/Alan_Walker_(music_producer)</string>
+    <string name="aeroChordUrl">https://en.wikipedia.org/wiki/Aero_Chord</string>
+</resources>
