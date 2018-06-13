@@ -27,7 +27,7 @@
             android:label="@string/Information" />
         <activity
             android:name=".aeroChordInfo"
-            android:label="@string/Information"></activity>
+            android:label="@string/Information" />
     </application>
 
 </manifest>
