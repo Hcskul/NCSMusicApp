@@ -22,8 +22,12 @@
         <activity
             android:name=".aeroChordPlay"
             android:label="@string/playing" />
-        <activity android:name=".alanWalkerInfo" />
-        <activity android:name=".aeroChordInfo"></activity>
+        <activity
+            android:name=".alanWalkerInfo"
+            android:label="@string/Information" />
+        <activity
+            android:name=".aeroChordInfo"
+            android:label="@string/Information"></activity>
     </application>
 
 </manifest>

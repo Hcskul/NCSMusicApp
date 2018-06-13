@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">NCS Music App</string>
     <string name="playing">Now Playing</string>
+    <string name="Information">Information</string>
     <string name="backButton">Take me back!</string>
     <string name="moreInformations">More information about the artist</string>
     <string name="alanWalkerInfo">Alan Olav Walker (born 24 August 1997), formerly known by his stage name DJ Walkzz, is a Norwegian record producer and DJ.</string>
