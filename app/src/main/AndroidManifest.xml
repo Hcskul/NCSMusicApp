@@ -18,15 +18,19 @@
         </activity>
         <activity
             android:name=".alanWalkerPlay"
+            android:parentActivityName=".MainActivity"
             android:label="@string/playing" />
         <activity
             android:name=".aeroChordPlay"
+            android:parentActivityName=".MainActivity"
             android:label="@string/playing" />
         <activity
             android:name=".alanWalkerInfo"
+            android:parentActivityName=".alanWalkerPlay"
             android:label="@string/Information" />
         <activity
             android:name=".aeroChordInfo"
+            android:parentActivityName=".aeroChordPlay"
             android:label="@string/Information" />
     </application>
 
